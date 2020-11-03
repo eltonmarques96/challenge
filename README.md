@@ -25,27 +25,9 @@ Design Framework (like Bootstrap. You are free to choose the best for you too)
 All the steps for correct installation/execution of the code need to be informed on a README.MD file like this. If we can't deploy your code on our server, you'll be eliminated.
 You can improve your score with:
 
-Good code practices
-Software Engineering Practices and Documentation
-Barema
-Task	Value
-Create	0-1
-Read	0-1
-Update	0-1
-Delete	0-1
-GUI	0-2
-
-Database	0-1
-Documentation	0-2
-Git Usage	0-1
-Total	0-10
-Your score can be improved by:
-
-Improvement Task	Factor
-Language Stack	0-40%
-Good Practices	0-20%
-Software Engineering	0-10%
-To be approved on this challenge, you need to achieve a score greater than 7.0.
+- Good code practices
+- Software Engineering Practices and Documentation
+- Good documentation
 
 
 Good Luck for you.
