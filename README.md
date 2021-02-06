@@ -1,4 +1,4 @@
-# challenge
+# Dev Challenge
 
 Introduction
 Hello. If you reach this part of the selection pool, cheers. This selection's phase will allow us to evaluate your development and fullstack skills. It's a very simple task if you had the expected knowledge on the language.
@@ -11,18 +11,20 @@ To send your answer for this challenge, fork this repository, finish your implem
 
 Are Requisites:
 
-Javascript Stack (NodeJS, ReactJS) or .NET Stack (ASP.NET) language
-Database Conceptual model
+Javascript Stack (NodeJS, ReactJS) or .NET Stack (ASP.NET or .NET Core)
+Relational database model
 At least two branches on the implementation
 At least one merge process
 Minimum of three commits. Each commit need to contain a small description of the implemented code and the next implementation's step
 Code documentation (you can choose the best for you)
 Design Framework (like Bootstrap. You are free to choose the best for you too)
 All the steps for correct installation/execution of the code need to be informed on a README.MD file like this. If we can't deploy your code on our server, you'll be eliminated.
+
 You can improve your score with:
 
 - Good code practices
-- HTTP Restfull API development good pratices
+- Tests
+- HTTP Restfull API development (check this repo: https://github.com/WhiteHouse/api-standards)
 - Software Engineering Practices and Documentation
 - Good documentation
 
