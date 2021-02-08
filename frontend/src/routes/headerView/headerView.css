@@ -1,0 +1,7 @@
+header {
+    display: flex;
+    flex-direction: column;
+    background: antiquewhite;
+    margin: 0;
+    border: 0;
+}
