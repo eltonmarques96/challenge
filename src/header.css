@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    background: blueviolet;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.button{
+    align-self: flex-start;
+}
